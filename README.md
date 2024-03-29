@@ -45,5 +45,5 @@ Special thanks to Font Awesome for providing the icons used in this project.
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/kushal-solanki">KUSHAL-SOLANKI</a>
+  Made with ❤️ by <a href="https://github.com/kushal-solanki">KUSHAL-SOLANKI</a> <img src="D:\User Data\Downloads\WhatsApp Image 2024-03-29 at 4.43.16 PM.jpeg" alt="#" width="20" height="20">
 </p>
