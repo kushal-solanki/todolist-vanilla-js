@@ -45,5 +45,5 @@ Special thanks to Font Awesome for providing the icons used in this project.
 ---
 
 <p align="center">
-  Made with ❤️ by KUSHAL-SOLANKI
+  Made with ❤️ by <a href="https://github.com/kushal-solanki">KUSHAL-SOLANKI</a>
 </p>
