@@ -16,8 +16,9 @@ To get a local copy of this project up and running, follow these steps:
    ```bash
    git clone https://github.com/your-username/todo-app.git
 2. Navigate to the project directory:
+   ```bash
    cd ToDo-App
-3. Open the index.html file in your web browser.
+4. Open the index.html file in your web browser.
 
 ## Usage
 Enter a task in the input field and click the "Add" button to add it to the list.
