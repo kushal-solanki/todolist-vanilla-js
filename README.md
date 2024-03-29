@@ -45,5 +45,5 @@ Special thanks to Font Awesome for providing the icons used in this project.
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/kushal-solanki">KUSHAL-SOLANKI</a> <img src="/whatsapp-image-2024-03-29-at-44316-pm.jpeg" alt="#" width="20" height="20">
+  Made with ❤️ by <a href="https://github.com/kushal-solanki">KUSHAL-SOLANKI</a> <img src="https://github.com/kushal-solanki/todolist-vanilla-js/blob/main/assets/whatsapp-image-2024-03-29-at-44316-pm.jpeg" alt="#" width="20" height="20">
 </p>
