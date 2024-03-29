@@ -1,31 +1,49 @@
-# ToDo App
+<div align="center">
+  <h1>ToDo App</h1>
+  <img src="https://cdn-icons-png.flaticon.com/512/7692/7692809.png" alt="ToDo App Preview" width="100px">
+</div>
 
-This ToDo App is a simple web application that allows users to create a list of tasks they need to complete.
+## Overview
+Welcome to the ToDo App! This is a simple yet powerful web application that helps you manage your tasks effectively. With intuitive features and a clean interface, staying organized has never been easier.
 
-## Features
+### Features
+- **Add Tasks**: Quickly add new tasks to your to-do list.
+- **Delete Tasks**: Remove tasks that you no longer need.
+- **Persistent Storage**: Your tasks are saved locally, so you never lose your progress.
 
-- **Add Task**: Users can add tasks to their list by entering the task description and clicking the "Add" button.
-- **Delete Task**: Users can delete tasks from their list by clicking on the delete icon or the delete button associated with each task.
-- **Persistent Storage**: The app uses localStorage to store tasks locally, ensuring that tasks persist even after the page is refreshed.
+## Technologies Used
+- **HTML**: Structure and layout of the web page.
+- **CSS**: Styling and design elements.
+- **JavaScript**: Dynamic functionality and interactivity.
 
 ## Getting Started
+To run the ToDo App locally on your machine, follow these simple steps:
 
-To get a local copy of this project up and running, follow these steps:
+1. **Clone the Repository**: 
+    ```bash
+    git clone <repository_url>
+    ```
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
-2. Navigate to the project directory:
-   ```bash
-   cd ToDo-App
-4. Open the index.html file in your web browser.
+2. **Navigate to the Project Directory**: 
+    ```bash
+    cd ToDo-App
+    ```
+
+3. **Open the Application**: 
+    - Open the `index.html` file in your preferred web browser.
 
 ## Usage
-Enter a task in the input field and click the "Add" button to add it to the list.
-Click on a task to mark it as completed.
-Click on the delete icon or the delete button to remove a task from the list.
+1. **Add a Task**: Enter a task in the input field and click the "Add" button.
+2. **Delete a Task**: Click on the delete icon or the delete button to remove a task from the list.
+
+## Preview
+![image](https://github.com/kushal-solanki/test/assets/114848773/21d31000-51cd-4d04-bbcf-fec1b10bec46)
 
 ## Acknowledgements
-- Font Awesome icons
+Special thanks to Font Awesome for providing the icons used in this project.
 
-Replace `<repository_url>` with the URL of your GitHub repository. You can also customize this README further to include additional details about your application, such as installation instructions, usage examples, or any other relevant information.
+---
+
+<p align="center">
+  Made with ❤️ by KUSHAL-SOLANKI
+</p>
